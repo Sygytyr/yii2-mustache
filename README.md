@@ -15,7 +15,7 @@ From a command prompt, run:
 
 ```shell
 $ composer global require fxp/composer-asset-plugin
-$ composer require cedx/yii2-mustache
+$ composer require sygytyr/yii2-mustache
 ```
 
 ## Configuring application
